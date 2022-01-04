@@ -2,15 +2,13 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> In this project we can:
-- retrieve elements from the database with the get method. 
-- retrieve each element with its details with the method get(Id)
-- view the elements with render. 
-- Index.html contains the div for each element I have just selected in my Show.js file in the Display folder. 
+> in this part the user can test if the counter returns the exact number of people who visited an item with jets.
+
+- run npm test
 
 
 
-![](https://github.com/vic778/js_capstone_project/blob/Counter/img/screen2.png)
+![](https://github.com/vic778/js_capstone_project/blob/MovieCounterJestTest/img/screen3.png)
 ## Built With
 
 - HTML5
@@ -32,8 +30,15 @@
 - Twitter: [@victoirBarh](https://twitter.com/)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/victoir-barh)
 
+## Author 2 👤 
+
+- GitHub: [@cwaku](https://github.com/cwaku)
+- LinkedIn: [Ricky Mormor](www.linkedin.com/in/ricky-mormor)
+- Instagram: [@rickymormor](https://instagram.com/rickymormor)
+- Twitter: [@rickymormor](https://twitter.com/rickymormor)
+
 ## Getting Started
-- run `npm install` to install all dependecies
+- run `npm install` to install all dependencies
 - run `npm start` to run the server
 
 ### Prerequisites:
