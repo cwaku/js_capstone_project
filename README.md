@@ -1,6 +1,6 @@
 # js_capstone_project
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+### [Live Demo Link](https://vic778.github.io/js_capstone_project/)
 
 > Built the project with two external API's. The first API was the [TVMaze](https://www.tvmaze.com/api) which allows us to get a list of movies with a unique movie id and for the given movie, it allows us to get detailed information about the movie. The second API was an [Involvement API](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270) to record the different user interactions (likes and comments).
 > The project also allows the user to
@@ -20,9 +20,6 @@
 - BOOTSTRAP
 - SASS
 - API
-## Live Demo
-
-[Live Demo Link](https://vic778.github.io/js_capstone_project/)
 
 ## Author 1
 
